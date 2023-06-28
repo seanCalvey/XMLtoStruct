@@ -1,0 +1,8 @@
+<foo>
+    <version>1.01</version>
+    <time>444</time>
+    <bar>
+        <name>test</name>
+        <order>7</order>
+    </bar>
+</foo>
